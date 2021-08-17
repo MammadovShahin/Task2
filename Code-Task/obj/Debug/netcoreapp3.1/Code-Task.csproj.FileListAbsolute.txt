@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\bin\Debug\netcoreapp3.1\Code-Task.exe
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\bin\Debug\netcoreapp3.1\Code-Task.deps.json
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\bin\Debug\netcoreapp3.1\Code-Task.runtimeconfig.json
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\bin\Debug\netcoreapp3.1\Code-Task.runtimeconfig.dev.json
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\bin\Debug\netcoreapp3.1\Code-Task.dll
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\bin\Debug\netcoreapp3.1\Code-Task.pdb
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\obj\Debug\netcoreapp3.1\Code-Task.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\obj\Debug\netcoreapp3.1\Code-Task.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\obj\Debug\netcoreapp3.1\Code-Task.AssemblyInfo.cs
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\obj\Debug\netcoreapp3.1\Code-Task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\obj\Debug\netcoreapp3.1\Code-Task.dll
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\obj\Debug\netcoreapp3.1\Code-Task.pdb
+C:\Users\user\Desktop\Codetask\Code-Task\Code-Task\obj\Debug\netcoreapp3.1\Code-Task.genruntimeconfig.cache
